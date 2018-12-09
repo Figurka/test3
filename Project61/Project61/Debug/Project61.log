@@ -1,2 +1,3 @@
 ﻿  main.cpp
-  Project61.vcxproj -> C:\Users\Глеб\source\repos\Project61\Debug\Project61.exe
+d:\test5\project61\project61\main.cpp(38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project61.vcxproj -> D:\test5\Project61\Debug\Project61.exe
